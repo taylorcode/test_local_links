@@ -1,0 +1,22 @@
+{
+  "name": "test_local_links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorcode/test_local_links.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorcode/test_local_links/issues"
+  },
+  "homepage": "https://github.com/taylorcode/test_local_links#readme",
+  "dependencies": {
+    "spectrum-tools": "./packages/spectrum-tools"
+  }
+}
